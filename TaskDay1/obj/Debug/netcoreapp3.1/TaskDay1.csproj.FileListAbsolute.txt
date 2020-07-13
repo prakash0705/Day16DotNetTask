@@ -1,0 +1,13 @@
+C:\Users\PRKUMA17\Desktop\day1\TaskDay1\TaskDay1\bin\Debug\netcoreapp3.1\TaskDay1.exe
+C:\Users\PRKUMA17\Desktop\day1\TaskDay1\TaskDay1\bin\Debug\netcoreapp3.1\TaskDay1.deps.json
+C:\Users\PRKUMA17\Desktop\day1\TaskDay1\TaskDay1\bin\Debug\netcoreapp3.1\TaskDay1.runtimeconfig.json
+C:\Users\PRKUMA17\Desktop\day1\TaskDay1\TaskDay1\bin\Debug\netcoreapp3.1\TaskDay1.runtimeconfig.dev.json
+C:\Users\PRKUMA17\Desktop\day1\TaskDay1\TaskDay1\bin\Debug\netcoreapp3.1\TaskDay1.dll
+C:\Users\PRKUMA17\Desktop\day1\TaskDay1\TaskDay1\bin\Debug\netcoreapp3.1\TaskDay1.pdb
+C:\Users\PRKUMA17\Desktop\day1\TaskDay1\TaskDay1\obj\Debug\netcoreapp3.1\TaskDay1.csprojAssemblyReference.cache
+C:\Users\PRKUMA17\Desktop\day1\TaskDay1\TaskDay1\obj\Debug\netcoreapp3.1\TaskDay1.AssemblyInfoInputs.cache
+C:\Users\PRKUMA17\Desktop\day1\TaskDay1\TaskDay1\obj\Debug\netcoreapp3.1\TaskDay1.AssemblyInfo.cs
+C:\Users\PRKUMA17\Desktop\day1\TaskDay1\TaskDay1\obj\Debug\netcoreapp3.1\TaskDay1.csproj.CoreCompileInputs.cache
+C:\Users\PRKUMA17\Desktop\day1\TaskDay1\TaskDay1\obj\Debug\netcoreapp3.1\TaskDay1.dll
+C:\Users\PRKUMA17\Desktop\day1\TaskDay1\TaskDay1\obj\Debug\netcoreapp3.1\TaskDay1.pdb
+C:\Users\PRKUMA17\Desktop\day1\TaskDay1\TaskDay1\obj\Debug\netcoreapp3.1\TaskDay1.genruntimeconfig.cache
